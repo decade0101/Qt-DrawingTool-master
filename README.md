@@ -1,2 +1,20 @@
-# Qt-DrawingTool-master
-DiagramScene 是一个基于Qt框架开发的图形场景编辑器应用，它允许用户在画布上插入、移动、缩放和修改各种类型的图表项（例如开始/结束节点、条件分支、步骤等）以及文本项。
+# Qt-DrawingTool
+A drawing tool based on Qt's [Diagram-Scene-Example](http://doc.qt.io/qt-5/qtwidgets-graphicsview-diagramscene-example.html).
+
+![1](/screenshots/screenshot-001.png?raw=true)
+
+## Added features
+- Zooming control with `ctrl + mouse wheel`
+- Dragable background
+- Resizable graphics item
+- Copy, cut and paste
+- Undo and redo operation
+- Horizontal/Vertical lines when aligning items
+- Sticky mode for item's position adjustment
+- Group/UnGroup
+- More shapes
+
+
+
+
+
